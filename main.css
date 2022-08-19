@@ -1,0 +1,299 @@
+#body{
+    background-image: url(file:///C:/Users/Asif/Downloads/graph.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+background-size: cover;
+background-attachment: fixed;
+}
+#btn{
+    color:red;
+    text-decoration: red;
+    border-radius: 10px;
+    background-color: #273746;
+                    border-color: #273746;
+                    font-weight: bolder;
+}
+.mlt{
+    position: relative;
+    left: 10px;
+    background-color: #273746;
+                    border-color: #273746;
+                    font-weight: bolder;
+}
+.ml{
+    position: relative;
+    left: 13px;
+    width: 27px;
+    background-color: #273746;
+                    border-color: #273746;
+                    font-weight: bolder;
+}
+.mlc{
+    position: relative;
+    left: 13px;
+    background-color: #273746;
+                    border-color: #273746;
+                    font-weight: bolder;
+}
+.mld{
+    position: relative;
+    left: 14px;
+    padding-top: 30px;
+    background-color: #273746;
+                    border-color: #273746;
+                    font-weight: bolder;
+}
+#onclick{
+    background-color: #273746;
+                    border-color: #273746;
+                    font-weight: bolder;
+}
+#div{
+    background-color: #273746;
+                    border-color: #273746;
+                    font-weight: bolder;
+}
+
+.jh{
+position: relative;
+left: -5px;
+background-color: #273746;
+border-color: #273746;
+font-weight: bolder;
+width: 40px;
+}
+.jk{
+    position: relative;
+    left: 0px;
+    width: 32px;
+    background-color: #273746;
+    border-color: #273746;
+    font-weight: bolder;
+    width: 40px;
+}
+.jl{
+    position: relative;
+    left: 8px;
+    width: 32px;
+    background-color: #273746;
+    border-color: #273746;
+    font-weight: bolder;
+    width: 40px;
+}
+#jh{
+    position: relative;
+    left: -6px;
+    background-color: #273746;
+    border-color: #273746;
+    font-weight: bolder;
+    }
+    #jk{
+        position: relative;
+        left: 4px;
+        width: 32px;
+        background-color: #273746;
+        border-color: #273746;
+        font-weight: bolder;
+    }
+    #jl{
+        position: relative;
+        left: 10px;
+        width: 32px;
+        background-color: #273746;
+        border-color: #273746;
+        font-weight: bolder;
+    }
+    #j{
+        position: relative;
+        left: -5px;
+        background-color: #273746;
+        border-color: #273746;
+        font-weight: bolder;
+        }
+        #m{
+            position: relative;
+            left: 4px;
+            width: 32px;
+            background-color: #273746;
+            border-color: #273746;
+            font-weight: bolder;
+        }
+        #l{
+            position: relative;
+            left: 10px;
+            width: 32px;
+            background-color: #273746;
+            border-color: #273746;
+            font-weight: bolder;
+        }
+        #x{
+            position: relative;
+            left: -5px;
+            bottom: 30px;
+            background-color: #273746;
+            border-color: #273746;
+            font-weight: bolder;
+            }
+            #y{
+                position: relative;
+                left: 5px;
+                width: 32px;
+                bottom: 30px;
+                background-color: #273746;
+                border-color: #273746;
+                font-weight: bolder;
+            }
+            #z{
+                position: relative;
+                left: 10px;
+                width: 32px;
+                bottom: 30px;
+                background-color: #273746;
+                border-color: #273746;
+                font-weight: bolder;
+            }
+            #z1{
+                position: relative;
+                left: -20px;
+                bottom: 30px;
+                background-color: #273746;
+                border-color: #273746;
+                font-weight: bolder;
+                }
+                #z2{
+                    position: relative;
+                    left: -10px;
+                    width: 32px;
+                    bottom: 30px;
+                    background-color: #273746;
+                    border-color: #273746;
+                    font-weight: bolder;
+                }
+                #z3{
+                    position: relative;
+                    left: -6px;
+                    width: 32px;
+                    bottom: 30px;
+                background-color: #273746;
+                border-color: #273746;
+                font-weight: bolder;
+                }
+                #div-text-center{
+                    text-align: center;
+                    position: relative;
+                    top: 150px;
+                    size: 100px;
+                    background-color: #273746 ;
+                    width: 200px;
+                    position: relative;
+                    left: 590px;
+                    width: 200px;
+                    height: 300px;
+                }
+                input{
+                    background-color: #273746 ;
+                    border-color: transparent;
+                    color: white;
+                    text-align: left;
+                    border-bottom: 3px solid white;
+                }
+                #btn{
+                    color:red;
+                    text-decoration: red;
+                    border-radius: 10px;
+                    background-color: #273746;
+                                    border-color: #273746;
+                                    font-weight: bolder;
+                }
+                .mlt{
+                    position: relative;
+                    left: 10px;
+                    background-color: #273746;
+                                    border-color: #273746;
+                                    font-weight: bolder;
+                }
+                .ml{
+                    position: relative;
+                    left: 13px;
+                    width: 27px;
+                    background-color: #273746;
+                                    border-color: #273746;
+                                    font-weight: bolder;
+                }
+                .mlc{
+                    position: relative;
+                    left: 13px;
+                    background-color: #273746;
+                                    border-color: #273746;
+                                    font-weight: bolder;
+                }
+                .mld{
+                    position: relative;
+                    left: 14px;
+                    padding-top: 30px;
+                    background-color: #273746;
+                                    border-color: #273746;
+                                    font-weight: bolder;
+                }
+                #onclick{
+                    background-color: #273746;
+                                    border-color: #273746;
+                                    font-weight: bolder;
+                }
+                #div{
+                    background-color: #273746;
+                                    border-color: #273746;
+                                    font-weight: bolder;
+                }
+                .jh:hover{
+                background-color: gray;
+                
+                }
+                .jk:hover{
+                    background-color: gray;
+                }
+                .jl:hover{
+                    background-color: gray;
+                }
+                #jh:hover{
+                    background-color: gray;
+                    }
+                    #jk:hover{
+                        background-color: gray;
+                    }
+                    #jl:hover{
+                        background-color: gray;
+                    }
+                    #j:hover{
+                        background-color: gray;
+                        }
+                        #m:hover{
+                            background-color: gray;
+                        }
+                        #l:hover{
+                            background-color: gray;
+                        }
+                        #x:hover{
+                            background-color: gray;
+                            }
+                            #y:hover{
+                                background-color: gray;
+                            }
+                            #z:hover{
+                                background-color: gray;
+                            }
+                            #z1:hover{
+                                background-color: gray;
+                                }
+                                #z2:hover{
+                                    background-color: gray;
+                                }
+                                #z3:hover{
+                                    background-color: gray;
+                                }
+                                #font{
+                                    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                                    text-align: center;
+                                    color: white;
+                                    font-size: 100px;
+                                }
